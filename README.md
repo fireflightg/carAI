@@ -1,4 +1,4 @@
-````markdown
+
 # CarVision 🚗📸  
 AI-powered app that detects the type of car (make, model, year) from a photo.
 
