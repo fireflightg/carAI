@@ -68,14 +68,4 @@ carvision/
 * Reverse image search for similar cars
 * Map of most common cars by type
 
-## 👥 Built By
-
-* **Saahib** – Frontend/UI
-* **\[Your Friend's Name]** – Backend/Model
-
-```
-
----
-
-Want me to generate a GitHub description, logo idea, or deploy instructions (like to Vercel or Hugging Face Spaces)?
 ```
